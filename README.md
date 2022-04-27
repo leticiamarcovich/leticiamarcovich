@@ -1,4 +1,4 @@
 - 👋Olá meu nome é ***@leticiamarcovich***
-- 🌱Meu email de contato é [email](l.cavlcanti@escola.pr.gov.br)
+- 🌱Meu email de contato é l.cavlcanti@escola.pr.gov.br
 - ✨Estou interessada em aprender novas linguagens 
 - 👀***iniciante na programação***
